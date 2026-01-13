@@ -1,0 +1,5 @@
+{
+  "name": "Tuniscope AI Assistant",
+  "description": "An AI-powered chat assistant for the Tuniscope.com news website, providing answers and suggestions in Tunisian Arabic dialect based on the site's content.",
+  "requestFramePermissions": []
+}
